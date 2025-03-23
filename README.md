@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [SKNIP DIGITAL DEN](https://youtube.com/@sknipdigitalden?si=jbYscn36SS7WmF_9)
 
-- 🌱 I’m currently learning **java,phython,HTML,Android Studio and react**
-
 - 🔭 I’m currently working on [SKNIP SKILL CRAFT](https://youtube.com/@sknipskillcraft?si=cxFkuo18jro-03r5)
+
+- 🌱 I’m currently learning **java,phython,HTML,Android Studio and react**
 
 - 📫 How to reach me **myallwork02@gmail.com**
 
@@ -21,6 +21,7 @@
 <a href="https://fb.com/sknipofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sknipofficial" height="30" width="40" /></a>
 <a href="https://instagram.com/sknip_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sknip_official" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@SKNIPDIGITALDEN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@SKNIPDIGITALDEN" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@SKNIPSKILLCRAFT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@SKNIPSKILLCRAFT" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
