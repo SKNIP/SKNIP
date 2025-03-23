@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SKNIP</h1>
-<a><img align="center" src="05.png" height="300" width="400" /></a>
+<img align="center" src="05.png" height="500.1" width="889" />
 <h3 align="center">I am a frontend and backend developer in Sri Lanka. In addition, I am trying to develop my own brand.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sknip&label=Profile%20views&color=0e75b6&style=flat" alt="sknip" /> </p>
