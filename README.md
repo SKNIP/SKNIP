@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SKNIP</h1>
-<a><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@SKNIPSKILLCRAFT" height="30" width="40" /></a>
+<a><img align="center" src="05.png" height="30" width="40" /></a>
 <h3 align="center">I am a frontend and backend developer in Sri Lanka. In addition, I am trying to develop my own brand.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sknip&label=Profile%20views&color=0e75b6&style=flat" alt="sknip" /> </p>
