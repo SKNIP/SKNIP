@@ -3,9 +3,9 @@
 <img align="center" src="banner.png" height="152.66" width="989" />
 <h2 align="center">I am a frontend and backend developer in Sri Lanka. In addition, I am trying to develop my own brand.</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sknip&label=Profile%20views&color=0e75b6&style=flat" alt="sknip" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sknip&label=Profile%20views&color=0e75b6&style=flat" alt="sknip" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sknip" alt="sknip" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sknip" alt="sknip" /></a> </p>
 
 ---
 - 🔭 I’m currently working on [SKNIP DIGITAL DEN](https://youtube.com/@sknipdigitalden?si=jbYscn36SS7WmF_9)
